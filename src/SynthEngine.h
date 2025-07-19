@@ -6,5 +6,5 @@ public:
     float process();
 private:
     float phase = 0.0f;
-    float sampleRate = 44100.0f;
+    float sampleRate = 48000.0f;
 };
