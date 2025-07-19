@@ -4,16 +4,16 @@ A Granular Synthesizer with an upcoming, no yet made, architecture. Which preten
 
 ## Dependencies
 RtAudio:
-´´´bash
-sudo apt install librtaudio-dev
-´´´
-RtMIDI:
-´´´bash
-sudo apt install librtmidi-dev
-´´´
 
+```bash
+sudo apt install librtaudio-dev
+```
+RtMIDI:
+```bash
+sudo apt install librtmidi-dev
+```
 DaisySP:
-´´´bash
+```bash
 git clone https://github.com/electro-smith/DaisySP.git
-´´´
+```
 
